@@ -2,9 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author 'Blackdow'
+author 'Julius'
 version '1.0.0'
-description 'Blackdow`s X-Menu'
+description 'Julius` X-Menu'
 
 ui_page "html/index.html"
 
